@@ -1,0 +1,4 @@
+[submodule "karin0018.github.io"]
+	path = karin0018.github.io
+	url = https://github.com/karin0018/karin0018.github.io.git
+	branch = master
